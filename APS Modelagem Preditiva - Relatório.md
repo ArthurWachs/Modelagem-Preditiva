@@ -291,9 +291,9 @@ ingerem essa quantidade de calorias.
 A regressão linear simples é um modelo linear nos seus parâmetros e tem
 apenas uma variável de entrada, ou seja, é do tipo:
 
-$\[
+\\[
 \Large{Y = \beta_{0} + \beta_{1}{X} + \epsilon}
-\]$
+\\]
 
 Y é a variável de interesse e X a de entrada.
 
